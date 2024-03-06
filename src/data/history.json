@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Assistant Manager (Software Engineer)",
+    "organisation": "Godrej Infotech",
+    "startDate": "April, 2021",
+    "endDate": "July, 2022",
+    "experiences": ["Implemented RESTful APIs to seamlessly integrate Godrej Smartnet Application.", 
+    "Managed Jenkins CI/CD pipelines for smooth code integration and deployment."
+    ],
+    "imageSrc": "history/godrej.png"
+  },
+  {
+    "role": "Senior Executive (Software Engineer)",
+    "organisation": "Godrej Infotech",
+    "startDate": "Sept, 2019",
+    "endDate": "May, 2021",
+    "experiences": [
+    "Worked with cross-functional team to maintain and enhance Godrej ERP.",
+    "Developed MS SQL stored procedures for automated report and PDF generation, streamlining order processing and customer data retrieval."
+    ],
+    "imageSrc": "history/godrej.png"
+  }
+]

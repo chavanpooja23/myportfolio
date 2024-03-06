@@ -1,0 +1,27 @@
+[
+  
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/expense.png",
+    "description": "Developed an expense tracker using ReactJS to effectively manage and monitor daily expenditures, leveraging Material UI for component design.",
+    "skills": ["React", "MaterialUI"],
+    "demo": "https://expensetracker2024.netlify.app/",
+    "source": "https://github.com/chavanpooja23/Expense-Tracker"
+  },
+  {
+    "title": "Face-Detector",
+    "imageSrc": "projects/face.png",
+    "description": "Created a web app for facial detection using ReactJS, NodeJS, and PostgreSQL. Integrated Clarifai's face detection module for image analysis.",
+    "skills": ["React", "Node", "PostgreSQL"],
+    "demo": "https://main--jade-muffin-11be8a.netlify.app/",
+    "source": "https://github.com/chavanpooja23/Face-Detection-API"
+  },
+  {
+    "title": "Chat Application",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a Chat Application with ReactJS and Spring-Boot, enabling group and private messaging functionalities.",
+    "skills": ["React", "Java", "Spring-Boot"],
+    "demo": "https://github.com/chavanpooja23/ChatApplication",
+    "source": "https://github.com/chavanpooja23/ChatApplication"
+  }
+]
