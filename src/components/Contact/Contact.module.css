@@ -36,6 +36,7 @@
   display: flex;
   align-items: center;
   gap: 25px;
+  word-wrap: break-word;
 }
 
 .link a {
@@ -44,6 +45,7 @@
   font-size: 30px;
   font-weight: 400;
   letter-spacing: 1.5px;
+  word-wrap: break-word;
 }
 
 @media screen and (max-width: 830px) {
