@@ -21,7 +21,7 @@
     "imageSrc": "projects/project.png",
     "description": "Developed a Chat Application with ReactJS and Spring-Boot, enabling group and private messaging functionalities.",
     "skills": ["React", "Java", "Spring-Boot"],
-    "demo": "https://github.com/chavanpooja23/ChatApplication",
+    "demo": "https://chatweb-qtd2.onrender.com",
     "source": "https://github.com/chavanpooja23/ChatApplication"
   }
 ]
