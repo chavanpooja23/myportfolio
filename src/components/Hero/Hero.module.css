@@ -51,16 +51,16 @@
 }
 
 .heroImg {
-  width: 100%;
+  width: 70%;
   z-index: 1;
 
-  animation-name: floating;
+  /* animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out; */
 }
 
-@keyframes floating {
+/* @keyframes floating {
   0% {
     transform: translate(0, 0px);
   }
@@ -69,8 +69,8 @@
   }
   100% {
     transform: translate(0, -0px);
-  }
-}
+  } 
+}*/
 
 .topBlur {
   position: absolute;
@@ -100,7 +100,7 @@
   z-index: 0;
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 768px) {
   .container {
     flex-direction: column-reverse;
   }
