@@ -20,7 +20,7 @@
 }
 
 .title {
-  font-size: 72px;
+  font-size: 65px;
   font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
@@ -34,9 +34,10 @@
 }
 
 .description {
-  font-size: 25px;
+  font-size: 22px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
+  /* margin-right: 30px; */
 }
 
 .contactBtn {
@@ -51,8 +52,9 @@
 }
 
 .heroImg {
-  width: 70%;
+  width: 50%;
   z-index: 1;
+  border-radius: 200px;
 
   /* animation-name: floating;
   animation-duration: 3s;
@@ -100,7 +102,7 @@
   z-index: 0;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .container {
     flex-direction: column-reverse;
   }
@@ -108,4 +110,28 @@
   .content {
     align-items: center;
   }
+} */
+
+@media screen and (max-width: 768px) {
+  .container {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center; /* Align children elements to the center horizontally */
+    justify-content: center; /* Align children elements to the center vertically */
+  }
+
+  .content {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center the content horizontally */
+    width: 100%; /* Ensure the content takes the full width of the container */
+    text-align: center; /* Center the text content */
+  }
+
+  .photo-section {
+    width: 100%;
+    display: flex;
+    justify-content: center; /* Center the photo section horizontally */
+  }
 }
+

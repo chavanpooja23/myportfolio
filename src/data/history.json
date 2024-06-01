@@ -1,22 +1,23 @@
 [
   {
-    "role": "Assistant Manager (Software Engineer)",
+    "role": "Senior Software Engineer",
     "organisation": "Godrej Infotech",
-    "startDate": "April, 2021",
+    "startDate": "May, 2021",
     "endDate": "July, 2022",
-    "experiences": ["Implemented RESTful APIs to seamlessly integrate Godrej Smartnet Application.", 
-    "Managed Jenkins CI/CD pipelines for smooth code integration and deployment."
+    "experiences": ["Led the integration of Smartnet with major platforms like Amazon, WhatsApp, and Servify, automating 70% of the order booking process and enhancing data processing speed by 30%.", 
+    "Mentored junior developers, improving feature delivery speed by 25% and reducing code errors by 15%, while collaborating with UI/UX teams to develop reusable React components that boosted conversion rates by 20%.",
+    "Developed RESTful APIs using Spring Boot for 5+ external client APIs, including Amazon and Flipkart, facilitating seamless integration."
     ],
     "imageSrc": "history/godrej.png"
   },
   {
-    "role": "Senior Executive (Software Engineer)",
+    "role": "Software Engineer",
     "organisation": "Godrej Infotech",
-    "startDate": "Sept, 2019",
-    "endDate": "May, 2021",
+    "startDate": "June, 2019",
+    "endDate": "April, 2021",
     "experiences": [
-    "Worked with cross-functional team to maintain and enhance Godrej ERP.",
-    "Developed MS SQL stored procedures for automated report and PDF generation, streamlining order processing and customer data retrieval."
+    "Worked with cross-functional team to design and implement software solutions for ERP application, elevating customer satisfaction.",
+    "Implemented SQL stored procedures to automate report generation and PDF creation, achieving an 80% improvement in query response times. Conducted code optimizations for the Smartnet web app, resolving critical bugs and enhancing efficiency by 20%."
     ],
     "imageSrc": "history/godrej.png"
   }

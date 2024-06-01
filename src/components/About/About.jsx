@@ -12,21 +12,16 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
               <p>
-                Experience in building responsive
-                and optimized websites using  HTML, CSS, JavaScript,
-                as well as modern frameworks like ReactJS.
+                With expertise in HTML, CSS, JavaScript, and the modern ReactJS framework, I excel in building responsive and optimized websites that deliver exceptional user experiences. I thrive on leveraging cutting-edge frontend technologies to create seamless interfaces and interactive web applications.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs with Spring Boot.
+                On the backend side, I have extensive experience developing fast and optimized systems and APIs using Spring Boot. I specialize in designing and implementing efficient solutions that streamline processes, enhance system functionality, and ensure scalability. My expertise lies in working with RESTful APIs, microservices, and various databases to deliver high-quality, robust applications.
               </p>
             </div>
           </li>
@@ -34,7 +29,7 @@ export const About = () => {
         
       </div>
       <div className={styles.center}>
-          <a href="https://drive.google.com/file/d/1-e23I1hLP2L9Ik1ACYeZ6caTt_JCs5uo/view?usp=sharing" className={styles.downloadBtn} target="_blank">
+          <a href="https://drive.google.com/file/d/10LOcZDOBmRiqaLgpo0VZ4NkEDirMKWm7/view?usp=sharing" className={styles.downloadBtn} target="_blank">
             Resume
           </a>
         </div>

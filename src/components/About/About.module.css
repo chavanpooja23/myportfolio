@@ -63,7 +63,7 @@
 }
 
 .aboutItem p {
-  font-size: 25px;
+  font-size: 22px;
 }
 
 .downloadBtn {
@@ -76,6 +76,7 @@
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
+
 .center {
   display: flex;
   justify-content: center;
